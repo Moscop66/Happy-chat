@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+<meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+</head>
+  <head>
+  <style>
+body {
+  background-color: burlywood;
+}
+h1,h2,h3 {
+  text-align: center;
+} 
+</style>
+   <title>Happy Chat Fun</title>
+   
+    <h1>Happy Chat Fun</h1>
+    
+    <h2> Chat With Friends Around You And Communicate With Family All Over The World </h2>
+    <h3>Click Here To Continue
+            <a href="happy-chatfun.neocities.org"
+            >
+            Happy Chat</a>
+            <img src="https://images.app.goo.gl/TxTLYG7GUF5MNNWy8">
+            
+            </h3>
+          </body>
+          </head>
+          </html> 
+ 
