@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+  <style>
+body {
+  background-color: burlywood;
+}
+h1,h2,h3 {
+  text-align: center;
+} 
+</style>
+   <title>Happy Chat</title>
+    <link rel="stylesheet" href="mystyles.css" />
+     </head>
+      <body>
+       <h1>Happy Chat</h1>
+        <main>
+          <h2> Chat With Happy Moment And Option  </h2>
+          
+          <h2>Create A New Account </h2>
+    
+          <fieldset>
+            <label>Enter First Name : <Input type="First Name" name="First Name" required /></label>
+            </fieldset>
+            <fieldset>    
+            <label>Enter Last Name: <Input type="Last Name" name="Last Name" required /></label>
+            </fieldset>
+            <fieldset>
+           <label>Enter Email Address: <input type="Email" name="Email" required /></label>
+           </fieldset>
+           <fieldset>
+           <label>Create A New Password: <input type="password" name="password" pattern="[a-z]{8,} " required /></label>
+           </fieldset>
+           <fieldset>
+           <label>Upload your profile Photo: <input type="file" name="file" required /></label>
+           </fieldset>
+           <fieldset>           <label>Input Your Age(years): <Input type="number" name="age" min="12" max="90" /></label>
+           </fieldset>
+           <fieldset>
+           <a href="">Submit</a>
+           </fieldset>
+
+            <h1> Login Your Account Here </h1>
+             <form action="post">
+                <li>Email or Phone<br><input type="text" name="email"></li>
+                <li>Password<br><input type="password" name="password"><br><a href="">Forgotten account?</a></li>
+                <li><input type="submit" name="login" value="Log In"></li>
+            </form>
+           <fieldset
+          </body>
+          </head>
+          </html>
